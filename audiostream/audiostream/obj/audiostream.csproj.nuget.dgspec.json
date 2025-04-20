@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sndre\\source\\repos\\audiostream\\audiostream\\audiostream.csproj": {}
+    "C:\\Users\\sndre\\OneDrive\\Documents\\GitHub\\AudioStream\\audiostream\\audiostream\\audiostream.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sndre\\source\\repos\\audiostream\\audiostream\\audiostream.csproj": {
+    "C:\\Users\\sndre\\OneDrive\\Documents\\GitHub\\AudioStream\\audiostream\\audiostream\\audiostream.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sndre\\source\\repos\\audiostream\\audiostream\\audiostream.csproj",
+        "projectUniqueName": "C:\\Users\\sndre\\OneDrive\\Documents\\GitHub\\AudioStream\\audiostream\\audiostream\\audiostream.csproj",
         "projectName": "audiostream",
-        "projectPath": "C:\\Users\\sndre\\source\\repos\\audiostream\\audiostream\\audiostream.csproj",
+        "projectPath": "C:\\Users\\sndre\\OneDrive\\Documents\\GitHub\\AudioStream\\audiostream\\audiostream\\audiostream.csproj",
         "packagesPath": "C:\\Users\\sndre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sndre\\source\\repos\\audiostream\\audiostream\\obj\\",
+        "outputPath": "C:\\Users\\sndre\\OneDrive\\Documents\\GitHub\\AudioStream\\audiostream\\audiostream\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

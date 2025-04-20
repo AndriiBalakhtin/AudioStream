@@ -5,7 +5,12 @@
     <TargetFramework>net9.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <ApplicationIcon>rn_image_picker_lib_temp_fadde089-8f6f-4597-a9aa-bd50b18778c2.ico</ApplicationIcon>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="rn_image_picker_lib_temp_fadde089-8f6f-4597-a9aa-bd50b18778c2.ico" />
+  </ItemGroup>
 
   <ItemGroup>
     <PackageReference Include="NAudio" Version="2.2.1" />
