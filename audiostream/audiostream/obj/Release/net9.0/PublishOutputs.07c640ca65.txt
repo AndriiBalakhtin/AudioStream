@@ -1,0 +1,11 @@
+C:\Users\sndre\OneDrive\Рабочий стол\audiostream.exe
+C:\Users\sndre\OneDrive\Рабочий стол\audiostream.dll
+C:\Users\sndre\OneDrive\Рабочий стол\audiostream.deps.json
+C:\Users\sndre\OneDrive\Рабочий стол\audiostream.runtimeconfig.json
+C:\Users\sndre\OneDrive\Рабочий стол\audiostream.pdb
+C:\Users\sndre\OneDrive\Рабочий стол\NAudio.dll
+C:\Users\sndre\OneDrive\Рабочий стол\NAudio.Asio.dll
+C:\Users\sndre\OneDrive\Рабочий стол\NAudio.Core.dll
+C:\Users\sndre\OneDrive\Рабочий стол\NAudio.Midi.dll
+C:\Users\sndre\OneDrive\Рабочий стол\NAudio.Wasapi.dll
+C:\Users\sndre\OneDrive\Рабочий стол\NAudio.WinMM.dll

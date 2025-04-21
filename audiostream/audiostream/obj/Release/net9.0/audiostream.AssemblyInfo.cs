@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("audiostream")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a70ccbc9ff6c967455ec6dcb63d5d089b89cb84")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ffb7981a6d39a6d84e110eebaf9caf93480e90be")]
 [assembly: System.Reflection.AssemblyProductAttribute("audiostream")]
 [assembly: System.Reflection.AssemblyTitleAttribute("audiostream")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
